@@ -3,6 +3,6 @@
 ## Install 
 
 ```
-* meteor npm install
-* meteor
+   meteor npm install
+   meteor
 ```
